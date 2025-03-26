@@ -101,4 +101,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot/blob/main/LICENSE
+[license-url]: https://github.com/cldprgm/CS2_Neuro_Aimbot/blob/main/LICENSE
