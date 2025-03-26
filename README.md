@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot/">
+  <a href="https://github.com/cldprgm/CS2_Neuro_Aimbot/">
     <img src="logo/logo2.png" alt="Logo" width="200" height="200">
   </a>
 
