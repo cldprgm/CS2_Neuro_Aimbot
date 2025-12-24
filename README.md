@@ -8,7 +8,7 @@
     <img src="logo/logo2.png" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">Counter-Strike2 Neuro Aimbot</h3>
+  <h3 align="center">Simple Counter-Strike2 Neuro Aimbot</h3>
 
 </div>
 
@@ -48,7 +48,7 @@ You'll need the following dependencies installed on your system:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/ADHDprogrammer52/CS2_Neuro_Aimbot.git
+   git clone https://github.com/cldprgm/CS2_Neuro_Aimbot.git
    ```
 2. Go to aimbot folder:
    ```sh
@@ -82,6 +82,8 @@ You'll need the following dependencies installed on your system:
 - If you have an RTX series graphics card, then for a significant increase in performance and detection speed, I recommend using tensorrt (you need to use models with the .engine extension) and download the sdk: https://developer.nvidia.com/tensorrt
 
 - Also present matchmaking_version.py for team game modes, but my dataset is small enough, so the model doesn't work well with classification. I do not recommend using it.
+
+- If you are using GPUs from older or newer series, you may need to install compatible versions of `torch`, `torchvision`, `torchaudio`, and TensorRT depending on your GPU generation.
 
 - This project is best suited for educational purposes and is not intended for unfair competitive use.
 
